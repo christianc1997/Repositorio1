@@ -1,2 +1,2 @@
-# Repositorio1
-Este es un repositorio de prueba del modulo 2 de henry 
+Christian Correa   
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde mi ordenador a gitup
